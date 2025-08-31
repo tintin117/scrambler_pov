@@ -58,6 +58,10 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "WindowsDualsense_ds5w",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
